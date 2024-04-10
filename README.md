@@ -4,7 +4,7 @@
 _Power BI Project to Visualise Hardware Company Sales Data_
 
 
-Through this Project, you can help the organization to understand its area of growth and area of concern. This Project will show you the various aspects of data through different visuals. It used SQL Database for Data.
+Through this Project, you can help the organization to understand its area of growth and area of concern. This Project will show the various aspects of data through different visuals. It used SQL Database for Data.
 
 
 
@@ -26,3 +26,18 @@ Through this Project, you can help the organization to understand its area of gr
 
 
 5. **Targeted Profit** - The Targeted Profit button will take you to the information where an organization can set the profit target by the given slicer and filter the market, zone, customer, product, and remaining based on profit margin and profit margin contribution. This will help the organization to filter out all profit and loss given areas.
+
+### Tootltips
+Informative and appealing tooltip for each visual. 
+
+### Measures and Parameters
+Created Measures and Parameters to show the relevant information/visual.
+
+### Message Icon
+When hover will show the Purpose of the Dashboard.
+
+### Filters
+To Interact with the Dashboard as per the requirement.
+
+
+![Screenshot 2024-04-10 222944](https://github.com/SheetalYadav95/Power-BI_Hardware_Sales_Analysis/assets/165933525/fbda31ff-9a18-453f-9603-c1841e5487e4)
