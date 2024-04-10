@@ -42,4 +42,5 @@ To Interact with the Dashboard as per the requirement.
 
 ### Small Glimpse of Dashboard
 
-![Screenshot 2024-04-10 222944](https://github.com/SheetalYadav95/Power-BI_Hardware_Sales_Analysis/assets/165933525/fbda31ff-9a18-453f-9603-c1841e5487e4)
+
+![Screenshot 2024-04-10 225647](https://github.com/SheetalYadav95/Power-BI_Hardware_Sales_Analysis/assets/165933525/cba217e8-d67d-4b39-adb7-5b5d89c0632d)
